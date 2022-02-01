@@ -113,7 +113,7 @@ docker tag imageId yourDockerHubId/yourRepositoryName
 - Run docker compose file
 ```coffee
 docker-compose up
-```coffee
+```
 
 - Execute specified docker-compose file
 ```coffee
