@@ -110,7 +110,12 @@ docker tag imageId yourDockerHubId/yourRepositoryName
 
    &nbsp; [>> More information about Docker Compose](https://docs.docker.com/compose/)   
 
-- Execute docker-compose file
+- Run docker compose file
+```coffee
+docker-compose up
+```coffee
+
+- Execute specified docker-compose file
 ```coffee
 docker-compose -f docker-compose.yml
 ```
