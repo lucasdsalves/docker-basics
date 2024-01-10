@@ -117,7 +117,7 @@ docker-compose up
 
 - Execute specified docker-compose file
 ```coffee
-docker-compose -f docker-compose.yml
+docker-compose -f docker-compose.yml up
 ```
 
 # Docker Hub
